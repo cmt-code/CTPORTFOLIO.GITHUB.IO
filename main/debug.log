@@ -1,0 +1,9 @@
+[1028/171043.002:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1029/071052.476:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1029/093627.753:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1030/093627.766:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1031/093627.775:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1102/095423.309:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1102/100423.322:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1102/100423.323:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\torre\AppData\Local\Google\Chrome\User Data\Crashpad\reports\cc9294ac-8c52-49f2-a864-b739f1af569b.dmp: The system cannot find the file specified. (0x2)
+[1102/100423.324:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
